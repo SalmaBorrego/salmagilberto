@@ -1,0 +1,13 @@
+<Empleado>
+	<Empleado>
+		<ID_E>3</ID_E>
+		<Nombres>Alberto</Nombres>
+		<Apellidos>Macias</Apellidos>
+		<Edad_E></Edad_E>
+		<FechaIngreso_E>2018-10-26</FechaIngreso_E>
+		<Horas_E>10</Horas_E>
+		<Sueldo_E>1510</Sueldo_E>
+		<Pago_E>2250</Pago_E>
+		<Observaciones_E>GSODF</Observaciones_E>
+	</Empleado>
+</Empleado>

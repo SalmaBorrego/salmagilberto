@@ -1,0 +1,24 @@
+<Empleado>
+	<Empleado>
+		<ID_E>1</ID_E>
+		<Nombres>Kinky</Nombres>
+		<Apellidos>MG</Apellidos>
+		<Edad_E>30</Edad_E>
+		<FechaIngreso_E>2018-11-20</FechaIngreso_E>
+		<Horas_E>15</Horas_E>
+		<Sueldo_E>1500</Sueldo_E>
+		<Pago_E>22500</Pago_E>
+		<Observaciones_E>SOYIO</Observaciones_E>
+	</Empleado>
+	<Empleado>
+		<ID_E>2</ID_E>
+		<Nombres>Ana Kren</Nombres>
+		<Apellidos>Gomez MezA</Apellidos>
+		<Edad_E>20</Edad_E>
+		<FechaIngreso_E>2018-11-22</FechaIngreso_E>
+		<Horas_E>15</Horas_E>
+		<Sueldo_E>1500</Sueldo_E>
+		<Pago_E>22500</Pago_E>
+		<Observaciones_E>G</Observaciones_E>
+	</Empleado>
+</Empleado>
